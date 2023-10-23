@@ -2,11 +2,11 @@
 ## Overview
 The "Floating-Point Binary to Decimal Converter" is a simple utility that allows you to convert floating-point numbers represented in binary format to their decimal equivalents. This tool is designed to assist developers, students, or anyone working with binary data or number representations. It can be particularly useful for understanding and converting binary values in the context of computer science, programming, and digital electronics.
 ## Features
--       Converts binary floating-point numbers (e.g., IEEE 754 format) to their decimal representation.
--       User-friendly command-line interface for easy input and output.
--       Supports single-precision and double-precision floating-point formats.
--       Provides clear and detailed explanations of the conversion process.
--       Open-source and easily extendable for custom requirements.
+- Converts binary floating-point numbers (e.g., IEEE 754 format) to their decimal representation.
+- User-friendly command-line interface for easy input and output.
+- Supports single-precision and double-precision floating-point formats.
+- Provides clear and detailed explanations of the conversion process.
+- Open-source and easily extendable for custom requirements.
 ## Usage
 1. Clone or download this repository to your local machine.
 2. Navigate to the project directory.
